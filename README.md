@@ -9,6 +9,7 @@
 * [UBI-House 제어 (2005년)](/projects/ubi_house.md)
 * [리니지용 오토마우스 (2006sus)](/projects/leaneage.md)
 * [이현상과 간리 (2009년)](/projects/liyun.md)
+* [타당성 분석 (2009년)](/projects/analysis.md)
 * [PLC를 이용하안 모니터링 프로그램(2010년)](/projects/plc.md)
 * [성적관리 (2010년)](/projects/test_result.md)
 
